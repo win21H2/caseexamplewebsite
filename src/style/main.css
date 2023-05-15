@@ -1,4 +1,3 @@
-
 html {
     background-color: #22272e;
     font-family: monospace;
@@ -9,13 +8,16 @@ html {
     margin: auto;
 }
 
+
+
+
+
 .infoPara {
     font-size: 20px;
     margin-top: 10px;
 }
 
 .infoTitle {
-    color: #DCDDDE;
     font-size: 30px;
     margin-top: 20px;
 }
@@ -27,4 +29,5 @@ html {
 .pageLink {
     font-size: 30px;
     color: #DCDDDE;
+    margin-top: 10px;
 }
